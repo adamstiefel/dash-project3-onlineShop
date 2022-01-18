@@ -1,2 +1,2 @@
 # dash-project3-onlineShop
-<img href=https://imgur.com/otZI50D.png>
+<img src="https://imgur.com/otZI50D.png" width="300">
